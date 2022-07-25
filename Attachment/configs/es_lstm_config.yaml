@@ -1,0 +1,30 @@
+verbose: True
+
+run: results
+
+exp: 
+      - FCM
+      - Gilboy
+      - Carreiras_Clifton
+
+lang: es
+
+model_type: lstm
+
+models: 
+        
+        lstm:
+          model_files:
+              - /data/new_es_models/es_lstm_hidden650_batch64_dropout0.2_lr20_0.pt
+              - /data/new_es_models/es_lstm_hidden650_batch64_dropout0.2_lr20_1.pt
+              - /data/new_es_models/es_lstm_hidden650_batch64_dropout0.2_lr20_2.pt
+              - /data/new_es_models/es_lstm_hidden650_batch64_dropout0.2_lr20_3.pt
+              - /data/new_es_models/es_lstm_hidden650_batch64_dropout0.2_lr20_4.pt
+          vocab_files:
+              - /data/new_es_models/es-vocab.txt
+              - /data/new_es_models/es-vocab.txt
+              - /data/new_es_models/es-vocab.txt
+              - /data/new_es_models/es-vocab.txt
+              - /data/new_es_models/es-vocab.txt
+
+include_punct: False

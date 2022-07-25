@@ -1,0 +1,18 @@
+verbose: True
+
+run: results
+
+exp: 
+     - FCM
+     - Gilboy
+     - Rohde
+
+lang: en
+
+model_type: auto
+
+models: 
+        gpt2:
+            - gpt2-xl
+
+include_punct: False

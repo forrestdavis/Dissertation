@@ -1,0 +1,145 @@
+item,lang,exp,AttachType,gender,N1_changed,N2_changed,N1,N2,mask_sents,auto_sents,target
+1,Spanish,5,ambi,m,0,0,el criado,del actor,Alguien disparó contra el criado del actor que estaba MASKTOKEN.,Alguien disparó contra el criado del actor que estaba,$ES_Adj_m
+1,Spanish,5,low,m,0,0,la criada,del actor,Alguien disparó contra la criada del actor que estaba MASKTOKEN.,Alguien disparó contra la criada del actor que estaba,$ES_Adj_m
+1,Spanish,5,high,m,0,0,el criado,de la actriz,Alguien disparó contra el criado de la actriz que estaba MASKTOKEN.,Alguien disparó contra el criado de la actriz que estaba,$ES_Adj_m
+1,Spanish,5,ambi,f,0,0,la criada,de la actriz,Alguien disparó contra la criada de la actriz que estaba MASKTOKEN.,Alguien disparó contra la criada de la actriz que estaba,$ES_Adj_f
+1,Spanish,5,low,f,0,0,el criado,de la actriz,Alguien disparó contra el criado de la actriz que estaba MASKTOKEN.,Alguien disparó contra el criado de la actriz que estaba,$ES_Adj_f
+1,Spanish,5,high,f,0,0,la criada,del actor,Alguien disparó contra la criada del actor que estaba MASKTOKEN.,Alguien disparó contra la criada del actor que estaba,$ES_Adj_f
+2,Spanish,5,ambi,m,0,0,al amigo,del maestro,Pedro conoció al amigo del maestro que estuvo MASKTOKEN por el Ministerio.,Pedro conoció al amigo del maestro que estuvo,$ES_Adj_m
+2,Spanish,5,low,m,0,0,a la amiga,del maestro,Pedro conoció a la amiga del maestro que estuvo MASKTOKEN por el Ministerio.,Pedro conoció a la amiga del maestro que estuvo,$ES_Adj_m
+2,Spanish,5,high,m,0,0,al amigo,de la maestra,Pedro conoció al amigo de la maestra que estuvo MASKTOKEN por el Ministerio.,Pedro conoció al amigo de la maestra que estuvo,$ES_Adj_m
+2,Spanish,5,ambi,f,0,0,a la amiga,de la maestra,Pedro conoció a la amiga de la maestra que estuvo MASKTOKEN por el Ministerio.,Pedro conoció a la amiga de la maestra que estuvo,$ES_Adj_f
+2,Spanish,5,low,f,0,0,al amigo,de la maestra,Pedro conoció al amigo de la maestra que estuvo MASKTOKEN por el Ministerio.,Pedro conoció al amigo de la maestra que estuvo,$ES_Adj_f
+2,Spanish,5,high,f,0,0,a la amiga,del maestro,Pedro conoció a la amiga del maestro que estuvo MASKTOKEN por el Ministerio.,Pedro conoció a la amiga del maestro que estuvo,$ES_Adj_f
+3,Spanish,5,ambi,m,0,1,al hermano,del trabajador,La policía detuvo al hermano del trabajador que estuvo MASKTOKEN de hurto.,La policía detuvo al hermano del trabajador que estuvo,$ES_Adj_m
+3,Spanish,5,low,m,0,1,a la hermana,del trabajador,La policía detuvo a la hermana del trabajador que estuvo MASKTOKEN de hurto.,La policía detuvo a la hermana del trabajador que estuvo,$ES_Adj_m
+3,Spanish,5,high,m,0,1,al hermano,de la trabajadora,La policía detuvo al hermano de la trabajadora que estuvo MASKTOKEN de hurto.,La policía detuvo al hermano de la trabajadora que estuvo,$ES_Adj_m
+3,Spanish,5,ambi,f,0,1,a la hermana,de la trabajadora,La policía detuvo a la hermana de la trabajadora que estuvo MASKTOKEN de hurto.,La policía detuvo a la hermana de la trabajadora que estuvo,$ES_Adj_f
+3,Spanish,5,low,f,0,1,al hermano,de la trabajadora,La policía detuvo al hermano de la trabajadora que estuvo MASKTOKEN de hurto.,La policía detuvo al hermano de la trabajadora que estuvo,$ES_Adj_f
+3,Spanish,5,high,f,0,1,a la hermana,del trabajador,La policía detuvo a la hermana del trabajador que estuvo MASKTOKEN de hurto.,La policía detuvo a la hermana del trabajador que estuvo,$ES_Adj_f
+4,Spanish,5,ambi,m,0,0,al amigo,del abogado,Un alumno apedreó al amigo del abogado que estuvo como MASKTOKEN en el Parlamento.,Un alumno apedreó al amigo del abogado que estuvo como,$ES_Adj_m
+4,Spanish,5,low,m,0,0,a la amiga,del abogado,Un alumno apedreó a la amiga del abogado que estuvo como MASKTOKEN en el Parlamento.,Un alumno apedreó a la amiga del abogado que estuvo como,$ES_Adj_m
+4,Spanish,5,high,m,0,0,al amigo,de la abogada,Un alumno apedreó al amigo de la abogada que estuvo como MASKTOKEN en el Parlamento.,Un alumno apedreó al amigo de la abogada que estuvo como,$ES_Adj_m
+4,Spanish,5,ambi,f,0,0,a la amiga,de la abogada,Un alumno apedreó a la amiga de la abogada que estuvo como MASKTOKEN en el Parlamento.,Un alumno apedreó a la amiga de la abogada que estuvo como,$ES_Adj_f
+4,Spanish,5,low,f,0,0,al amigo,de la abogada,Un alumno apedreó al amigo de la abogada que estuvo como MASKTOKEN en el Parlamento.,Un alumno apedreó al amigo de la abogada que estuvo como,$ES_Adj_f
+4,Spanish,5,high,f,0,0,a la amiga,del abogado,Un alumno apedreó a la amiga del abogado que estuvo como MASKTOKEN en el Parlamento.,Un alumno apedreó a la amiga del abogado que estuvo como,$ES_Adj_f
+5,Spanish,5,ambi,m,0,0,el novio,del cantante,Amelia se fotografió con el novio del cantante que estuvo MASKTOKEN con los periodistas.,Amelia se fotografió con el novio del cantante que estuvo,$ES_Adj_m
+5,Spanish,5,low,m,0,0,la novia,del cantante,Amelia se fotografió con la novia del cantante que estuvo MASKTOKEN con los periodistas.,Amelia se fotografió con la novia del cantante que estuvo,$ES_Adj_m
+5,Spanish,5,high,m,0,0,el novio,de la cantante,Amelia se fotografió con el novio de la cantante que estuvo MASKTOKEN con los periodistas.,Amelia se fotografió con el novio de la cantante que estuvo,$ES_Adj_m
+5,Spanish,5,ambi,f,0,0,la novia,de la cantante,Amelia se fotografió con la novia de la cantante que estuvo MASKTOKEN con los periodistas.,Amelia se fotografió con la novia de la cantante que estuvo,$ES_Adj_f
+5,Spanish,5,low,f,0,0,el novio,de la cantante,Amelia se fotografió con el novio de la cantante que estuvo MASKTOKEN con los periodistas.,Amelia se fotografió con el novio de la cantante que estuvo,$ES_Adj_f
+5,Spanish,5,high,f,0,0,la novia,del cantante,Amelia se fotografió con la novia del cantante que estuvo MASKTOKEN con los periodistas.,Amelia se fotografió con la novia del cantante que estuvo,$ES_Adj_f
+6,Spanish,5,ambi,m,0,0,al hijo,del diputado,El periodista entrevistó al hijo del diputado que se quedó MASKTOKEN.,El periodista entrevistó al hijo del diputado que se quedó,$ES_Adj_m
+6,Spanish,5,low,m,0,0,a la hija,del diputado,El periodista entrevistó a la hija del diputado que se quedó MASKTOKEN.,El periodista entrevistó a la hija del diputado que se quedó,$ES_Adj_m
+6,Spanish,5,high,m,0,0,al hijo,de la diputada,El periodista entrevistó al hijo de la diputada que se quedó MASKTOKEN.,El periodista entrevistó al hijo de la diputada que se quedó,$ES_Adj_m
+6,Spanish,5,ambi,f,0,0,a la hija,de la diputada,El periodista entrevistó a la hija de la diputada que se quedó MASKTOKEN.,El periodista entrevistó a la hija de la diputada que se quedó,$ES_Adj_f
+6,Spanish,5,low,f,0,0,al hijo,de la diputada,El periodista entrevistó al hijo de la diputada que se quedó MASKTOKEN.,El periodista entrevistó al hijo de la diputada que se quedó,$ES_Adj_f
+6,Spanish,5,high,f,0,0,a la hija,del diputado,El periodista entrevistó a la hija del diputado que se quedó MASKTOKEN.,El periodista entrevistó a la hija del diputado que se quedó,$ES_Adj_f
+7,Spanish,5,ambi,m,0,0,el sobrino,del conserje,Andrés cenó ayer con el sobrino del conserje que trabajó de MASKTOKEN en su empresa.,Andrés cenó ayer con el sobrino del conserje que trabajó de,$ES_Adj_m
+7,Spanish,5,low,m,0,0,la sobrina,del conserje,Andrés cenó ayer con la sobrina del conserje que trabajó de MASKTOKEN en su empresa.,Andrés cenó ayer con la sobrina del conserje que trabajó de,$ES_Adj_m
+7,Spanish,5,high,m,0,0,el sobrino,de la conserje,Andrés cenó ayer con el sobrino de la conserje que trabajó de MASKTOKEN en su empresa.,Andrés cenó ayer con el sobrino de la conserje que trabajó de,$ES_Adj_m
+7,Spanish,5,ambi,f,0,0,la sobrina,de la conserje,Andrés cenó ayer con la sobrina de la conserje que trabajó de MASKTOKEN en su empresa.,Andrés cenó ayer con la sobrina de la conserje que trabajó de,$ES_Adj_f
+7,Spanish,5,low,f,0,0,el sobrino,de la conserje,Andrés cenó ayer con el sobrino de la conserje que trabajó de MASKTOKEN en su empresa.,Andrés cenó ayer con el sobrino de la conserje que trabajó de,$ES_Adj_f
+7,Spanish,5,high,f,0,0,la sobrina,del conserje,Andrés cenó ayer con la sobrina del conserje que trabajó de MASKTOKEN en su empresa.,Andrés cenó ayer con la sobrina del conserje que trabajó de,$ES_Adj_f
+8,Spanish,5,ambi,m,0,1,el hijo,del obrero,María salió al cine con el hijo del obrero que estaba MASKTOKEN.,María salió al cine con el hijo del obrero que estaba,$ES_Adj_m
+8,Spanish,5,low,m,0,1,la hija,del obrero,María salió al cine con la hija del obrero que estaba MASKTOKEN.,María salió al cine con la hija del obrero que estaba,$ES_Adj_m
+8,Spanish,5,high,m,0,1,el hijo,de la obrera,María salió al cine con el hijo de la obrera que estaba MASKTOKEN.,María salió al cine con el hijo de la obrera que estaba,$ES_Adj_m
+8,Spanish,5,ambi,f,0,1,la hija,de la obrera,María salió al cine con la hija de la obrera que estaba MASKTOKEN.,María salió al cine con la hija de la obrera que estaba,$ES_Adj_f
+8,Spanish,5,low,f,0,1,el hijo,de la obrera,María salió al cine con el hijo de la obrera que estaba MASKTOKEN.,María salió al cine con el hijo de la obrera que estaba,$ES_Adj_f
+8,Spanish,5,high,f,0,1,la hija,del obrero,María salió al cine con la hija del obrero que estaba MASKTOKEN.,María salió al cine con la hija del obrero que estaba,$ES_Adj_f
+9,Spanish,5,ambi,m,0,0,del sobrino,del maestro,Los chicos se burlaron del sobrino del maestro que estaba MASKTOKEN en el parque.,Los chicos se burlaron del sobrino del maestro que estaba,$ES_Adj_m
+9,Spanish,5,low,m,0,0,de la sobrina,del maestro,Los chicos se burlaron de la sobrina del maestro que estaba MASKTOKEN en el parque.,Los chicos se burlaron de la sobrina del maestro que estaba,$ES_Adj_m
+9,Spanish,5,high,m,0,0,del sobrino,de la maestra,Los chicos se burlaron del sobrino de la maestra que estaba MASKTOKEN en el parque.,Los chicos se burlaron del sobrino de la maestra que estaba,$ES_Adj_m
+9,Spanish,5,ambi,f,0,0,de la sobrina,de la maestra,Los chicos se burlaron de la sobrina de la maestra que estaba MASKTOKEN en el parque.,Los chicos se burlaron de la sobrina de la maestra que estaba,$ES_Adj_f
+9,Spanish,5,low,f,0,0,del sobrino,de la maestra,Los chicos se burlaron del sobrino de la maestra que estaba MASKTOKEN en el parque.,Los chicos se burlaron del sobrino de la maestra que estaba,$ES_Adj_f
+9,Spanish,5,high,f,0,0,de la sobrina,del maestro,Los chicos se burlaron de la sobrina del maestro que estaba MASKTOKEN en el parque.,Los chicos se burlaron de la sobrina del maestro que estaba,$ES_Adj_f
+10,Spanish,5,ambi,m,0,1,el sirviente,del rey,Mi madre discutió con el sirviente del rey que estuvo MASKTOKEN la semana pasada.,Mi madre discutió con el sirviente del rey que estuvo,$ES_Adj_m
+10,Spanish,5,low,m,0,1,la sirvienta,del rey,Mi madre discutió con la sirvienta del rey que estuvo MASKTOKEN la semana pasada.,Mi madre discutió con la sirvienta del rey que estuvo,$ES_Adj_m
+10,Spanish,5,high,m,0,1,el sirviente,de la reina,Mi madre discutió con el sirviente de la reina que estuvo MASKTOKEN la semana pasada.,Mi madre discutió con el sirviente de la reina que estuvo,$ES_Adj_m
+10,Spanish,5,ambi,f,0,1,la sirvienta,de la reina,Mi madre discutió con la sirvienta de la reina que estuvo MASKTOKEN la semana pasada.,Mi madre discutió con la sirvienta de la reina que estuvo,$ES_Adj_f
+10,Spanish,5,low,f,0,1,el sirviente,de la reina,Mi madre discutió con el sirviente de la reina que estuvo MASKTOKEN la semana pasada.,Mi madre discutió con el sirviente de la reina que estuvo,$ES_Adj_f
+10,Spanish,5,high,f,0,1,la sirvienta,del rey,Mi madre discutió con la sirvienta del rey que estuvo MASKTOKEN la semana pasada.,Mi madre discutió con la sirvienta del rey que estuvo,$ES_Adj_f
+11,Spanish,5,ambi,m,0,1,al criado,del emperador,La policía detuvo al criado del emperador que estuvo MASKTOKEN antes por escandalo.,La policía detuvo al criado del emperador que estuvo,$ES_Adj_m
+11,Spanish,5,low,m,0,1,a la criada,del emperador,La policía detuvo a la criada del emperador que estuvo MASKTOKEN antes por escandalo.,La policía detuvo a la criada del emperador que estuvo,$ES_Adj_m
+11,Spanish,5,high,m,0,1,al criado,de la emperatriz,La policía detuvo al criado de la emperatriz que estuvo MASKTOKEN antes por escandalo.,La policía detuvo al criado de la emperatriz que estuvo,$ES_Adj_m
+11,Spanish,5,ambi,f,0,1,a la criada,de la emperatriz,La policía detuvo a la criada de la emperatriz que estuvo MASKTOKEN antes por escandalo.,La policía detuvo a la criada de la emperatriz que estuvo,$ES_Adj_f
+11,Spanish,5,low,f,0,1,al criado,de la emperatriz,La policía detuvo al criado de la emperatriz que estuvo MASKTOKEN antes por escandalo.,La policía detuvo al criado de la emperatriz que estuvo,$ES_Adj_f
+11,Spanish,5,high,f,0,1,a la criada,del emperador,La policía detuvo a la criada del emperador que estuvo MASKTOKEN antes por escandalo.,La policía detuvo a la criada del emperador que estuvo,$ES_Adj_f
+12,Spanish,5,ambi,m,1,0,al ayudante,del doctor,Esta tarde he visto al ayudante del doctor que había sido MASKTOKEN el año pasado.,Esta tarde he visto al ayudante del doctor que había sido,$ES_Adj_m
+12,Spanish,5,low,m,1,0,a la ayudante,del doctor,Esta tarde he visto a la ayudante del doctor que había sido MASKTOKEN el año pasado.,Esta tarde he visto a la ayudante del doctor que había sido,$ES_Adj_m
+12,Spanish,5,high,m,1,0,al ayudante,de la doctora,Esta tarde he visto al ayudante de la doctora que había sido MASKTOKEN el año pasado.,Esta tarde he visto al ayudante de la doctora que había sido,$ES_Adj_m
+12,Spanish,5,ambi,f,1,0,a la ayudante,de la doctora,Esta tarde he visto a la ayudante de la doctora que había sido MASKTOKEN el año pasado.,Esta tarde he visto a la ayudante de la doctora que había sido,$ES_Adj_f
+12,Spanish,5,low,f,1,0,al ayudante,de la doctora,Esta tarde he visto al ayudante de la doctora que había sido MASKTOKEN el año pasado.,Esta tarde he visto al ayudante de la doctora que había sido,$ES_Adj_f
+12,Spanish,5,high,f,1,0,a la ayudante,del doctor,Esta tarde he visto a la ayudante del doctor que había sido MASKTOKEN el año pasado.,Esta tarde he visto a la ayudante del doctor que había sido,$ES_Adj_f
+13,Spanish,5,ambi,m,0,1,el abuelo,del chico,Los chicos se reían con el abuelo del chico que estaba MASKTOKEN con un traje nuevo.,Los chicos se reían con el abuelo del chico que estaba,$ES_Adj_m
+13,Spanish,5,low,m,0,1,la abuela,del chico,Los chicos se reían con la abuela del chico que estaba MASKTOKEN con un traje nuevo.,Los chicos se reían con la abuela del chico que estaba,$ES_Adj_m
+13,Spanish,5,high,m,0,1,el abuelo,de la chica,Los chicos se reían con el abuelo de la chica que estaba MASKTOKEN con un traje nuevo.,Los chicos se reían con el abuelo de la chica que estaba,$ES_Adj_m
+13,Spanish,5,ambi,f,0,1,la abuela,de la chica,Los chicos se reían con la abuela de la chica que estaba MASKTOKEN con un traje nuevo.,Los chicos se reían con la abuela de la chica que estaba,$ES_Adj_f
+13,Spanish,5,low,f,0,1,el abuelo,de la chica,Los chicos se reían con el abuelo de la chica que estaba MASKTOKEN con un traje nuevo.,Los chicos se reían con el abuelo de la chica que estaba,$ES_Adj_f
+13,Spanish,5,high,f,0,1,la abuela,del chico,Los chicos se reían con la abuela del chico que estaba MASKTOKEN con un traje nuevo.,Los chicos se reían con la abuela del chico que estaba,$ES_Adj_f
+13,Spanish,5,ambi,m,0,0,al secretario,del gerente,El cartero se acercó al secretario del gerente que estaba MASKTOKEN.,El cartero se acercó al secretario del gerente que estaba,$ES_Adj_m
+13,Spanish,5,low,m,0,0,a la secretaria,del gerente,El cartero se acercó a la secretaria del gerente que estaba MASKTOKEN.,El cartero se acercó a la secretaria del gerente que estaba,$ES_Adj_m
+13,Spanish,5,high,m,0,0,al secretario,de la gerente,El cartero se acercó al secretario de la gerente que estaba MASKTOKEN.,El cartero se acercó al secretario de la gerente que estaba,$ES_Adj_m
+13,Spanish,5,ambi,f,0,0,a la secretaria,de la gerente,El cartero se acercó a la secretaria de la gerente que estaba MASKTOKEN.,El cartero se acercó a la secretaria de la gerente que estaba,$ES_Adj_f
+13,Spanish,5,low,f,0,0,al secretario,de la gerente,El cartero se acercó al secretario de la gerente que estaba MASKTOKEN.,El cartero se acercó al secretario de la gerente que estaba,$ES_Adj_f
+13,Spanish,5,high,f,0,0,a la secretaria,del gerente,El cartero se acercó a la secretaria del gerente que estaba MASKTOKEN.,El cartero se acercó a la secretaria del gerente que estaba,$ES_Adj_f
+15,Spanish,5,ambi,m,0,0,del nieto,del campesino,El turista hizo un dibujo del nieto del campesino que estaba MASKTOKEN.,El turista hizo un dibujo del nieto del campesino que estaba,$ES_Adj_m
+15,Spanish,5,low,m,0,0,de la nieta,del campesino,El turista hizo un dibujo de la nieta del campesino que estaba MASKTOKEN.,El turista hizo un dibujo de la nieta del campesino que estaba,$ES_Adj_m
+15,Spanish,5,high,m,0,0,del nieto,de la campesina,El turista hizo un dibujo del nieto de la campesina que estaba MASKTOKEN.,El turista hizo un dibujo del nieto de la campesina que estaba,$ES_Adj_m
+15,Spanish,5,ambi,f,0,0,de la nieta,de la campesina,El turista hizo un dibujo de la nieta de la campesina que estaba MASKTOKEN.,El turista hizo un dibujo de la nieta de la campesina que estaba,$ES_Adj_f
+15,Spanish,5,low,f,0,0,del nieto,de la campesina,El turista hizo un dibujo del nieto de la campesina que estaba MASKTOKEN.,El turista hizo un dibujo del nieto de la campesina que estaba,$ES_Adj_f
+15,Spanish,5,high,f,0,0,de la nieta,del campesino,El turista hizo un dibujo de la nieta del campesino que estaba MASKTOKEN.,El turista hizo un dibujo de la nieta del campesino que estaba,$ES_Adj_f
+16,Spanish,5,ambi,m,0,0,el visitante,del paciente,La enfermera tropezó con el visitante del paciente que estaba MASKTOKEN.,La enfermera tropezó con el visitante del paciente que estaba,$ES_Adj_m
+16,Spanish,5,low,m,0,0,la visitante,del paciente,La enfermera tropezó con la visitante del paciente que estaba MASKTOKEN.,La enfermera tropezó con la visitante del paciente que estaba,$ES_Adj_m
+16,Spanish,5,high,m,0,0,el visitante,de la paciente,La enfermera tropezó con el visitante de la paciente que estaba MASKTOKEN.,La enfermera tropezó con el visitante de la paciente que estaba,$ES_Adj_m
+16,Spanish,5,ambi,f,0,0,la visitante,de la paciente,La enfermera tropezó con la visitante de la paciente que estaba MASKTOKEN.,La enfermera tropezó con la visitante de la paciente que estaba,$ES_Adj_f
+16,Spanish,5,low,f,0,0,el visitante,de la paciente,La enfermera tropezó con el visitante de la paciente que estaba MASKTOKEN.,La enfermera tropezó con el visitante de la paciente que estaba,$ES_Adj_f
+16,Spanish,5,high,f,0,0,la visitante,del paciente,La enfermera tropezó con la visitante del paciente que estaba MASKTOKEN.,La enfermera tropezó con la visitante del paciente que estaba,$ES_Adj_f
+17,Spanish,5,ambi,m,0,1,al hijo,del inmigrante,El alguacil encerró al hijo del inmigrante que estaba MASKTOKEN pidiendo limosna.,El alguacil encerró al hijo del inmigrante que estaba,$ES_Adj_m
+17,Spanish,5,low,m,0,1,a la hija,del inmigrante,El alguacil encerró a la hija del inmigrante que estaba MASKTOKEN pidiendo limosna.,El alguacil encerró a la hija del inmigrante que estaba,$ES_Adj_m
+17,Spanish,5,high,m,0,1,al hijo,de la inmigrante,El alguacil encerró al hijo de la inmigrante que estaba MASKTOKEN pidiendo limosna.,El alguacil encerró al hijo de la inmigrante que estaba,$ES_Adj_m
+17,Spanish,5,ambi,f,0,1,a la hija,de la inmigrante,El alguacil encerró a la hija de la inmigrante que estaba MASKTOKEN pidiendo limosna.,El alguacil encerró a la hija de la inmigrante que estaba,$ES_Adj_f
+17,Spanish,5,low,f,0,1,al hijo,de la inmigrante,El alguacil encerró al hijo de la inmigrante que estaba MASKTOKEN pidiendo limosna.,El alguacil encerró al hijo de la inmigrante que estaba,$ES_Adj_f
+17,Spanish,5,high,f,0,1,a la hija,del inmigrante,El alguacil encerró a la hija del inmigrante que estaba MASKTOKEN pidiendo limosna.,El alguacil encerró a la hija del inmigrante que estaba,$ES_Adj_f
+18,Spanish,5,ambi,m,0,1,al hermano,del propietario,Los rumores acusaban al hermano del propietario que estaba MASKTOKEN.,Los rumores acusaban al hermano del propietario que estaba,$ES_Adj_m
+18,Spanish,5,low,m,0,1,a la hermana,del propietario,Los rumores acusaban a la hermana del propietario que estaba MASKTOKEN.,Los rumores acusaban a la hermana del propietario que estaba,$ES_Adj_m
+18,Spanish,5,high,m,0,1,al hermano,de la propietaria,Los rumores acusaban al hermano de la propietaria que estaba MASKTOKEN.,Los rumores acusaban al hermano de la propietaria que estaba,$ES_Adj_m
+18,Spanish,5,ambi,f,0,1,a la hermana,de la propietaria,Los rumores acusaban a la hermana de la propietaria que estaba MASKTOKEN.,Los rumores acusaban a la hermana de la propietaria que estaba,$ES_Adj_f
+18,Spanish,5,low,f,0,1,al hermano,de la propietaria,Los rumores acusaban al hermano de la propietaria que estaba MASKTOKEN.,Los rumores acusaban al hermano de la propietaria que estaba,$ES_Adj_f
+18,Spanish,5,high,f,0,1,a la hermana,del propietario,Los rumores acusaban a la hermana del propietario que estaba MASKTOKEN.,Los rumores acusaban a la hermana del propietario que estaba,$ES_Adj_f
+19,Spanish,5,ambi,m,0,0,al amigo,del estudiante,El detective hizo una foto al amigo del estudiante que estaba MASKTOKEN.,El detective hizo una foto al amigo del estudiante que estaba,$ES_Adj_m
+19,Spanish,5,low,m,0,0,a la amiga,del estudiante,El detective hizo una foto a la amiga del estudiante que estaba MASKTOKEN.,El detective hizo una foto a la amiga del estudiante que estaba,$ES_Adj_m
+19,Spanish,5,high,m,0,0,al amigo,de la estudiante,El detective hizo una foto al amigo de la estudiante que estaba MASKTOKEN.,El detective hizo una foto al amigo de la estudiante que estaba,$ES_Adj_m
+19,Spanish,5,ambi,f,0,0,a la amiga,de la estudiante,El detective hizo una foto a la amiga de la estudiante que estaba MASKTOKEN.,El detective hizo una foto a la amiga de la estudiante que estaba,$ES_Adj_f
+19,Spanish,5,low,f,0,0,al amigo,de la estudiante,El detective hizo una foto al amigo de la estudiante que estaba MASKTOKEN.,El detective hizo una foto al amigo de la estudiante que estaba,$ES_Adj_f
+19,Spanish,5,high,f,0,0,a la amiga,del estudiante,El detective hizo una foto a la amiga del estudiante que estaba MASKTOKEN.,El detective hizo una foto a la amiga del estudiante que estaba,$ES_Adj_f
+20,Spanish,5,ambi,m,0,0,al hermano,del ministro,María saludó al hermano del ministro que estaba MASKTOKEN de volver a su pueblo.,María saludó al hermano del ministro que estaba,$ES_Adj_m
+20,Spanish,5,low,m,0,0,a la hermana,del ministro,María saludó a la hermana del ministro que estaba MASKTOKEN de volver a su pueblo.,María saludó a la hermana del ministro que estaba,$ES_Adj_m
+20,Spanish,5,high,m,0,0,al hermano,de la ministra,María saludó al hermano de la ministra que estaba MASKTOKEN de volver a su pueblo.,María saludó al hermano de la ministra que estaba,$ES_Adj_m
+20,Spanish,5,ambi,f,0,0,a la hermana,de la ministra,María saludó a la hermana de la ministra que estaba MASKTOKEN de volver a su pueblo.,María saludó a la hermana de la ministra que estaba,$ES_Adj_f
+20,Spanish,5,low,f,0,0,al hermano,de la ministra,María saludó al hermano de la ministra que estaba MASKTOKEN de volver a su pueblo.,María saludó al hermano de la ministra que estaba,$ES_Adj_f
+20,Spanish,5,high,f,0,0,a la hermana,del ministro,María saludó a la hermana del ministro que estaba MASKTOKEN de volver a su pueblo.,María saludó a la hermana del ministro que estaba,$ES_Adj_f
+21,Spanish,5,ambi,m,0,1,el amigo,del jefe,Ayer me encontré con el amigo del jefe que fue MASKTOKEN de nuestra empresa.,Ayer me encontré con el amigo del jefe que fue,$ES_Adj_m
+21,Spanish,5,low,m,0,1,la amiga,del jefe,Ayer me encontré con la amiga del jefe que fue MASKTOKEN de nuestra empresa.,Ayer me encontré con la amiga del jefe que fue,$ES_Adj_m
+21,Spanish,5,high,m,0,1,el amigo,de la jefa,Ayer me encontré con el amigo de la jefa que fue MASKTOKEN de nuestra empresa.,Ayer me encontré con el amigo de la jefa que fue,$ES_Adj_m
+21,Spanish,5,ambi,f,0,1,la amiga,de la jefa,Ayer me encontré con la amiga de la jefa que fue MASKTOKEN de nuestra empresa.,Ayer me encontré con la amiga de la jefa que fue,$ES_Adj_f
+21,Spanish,5,low,f,0,1,el amigo,de la jefa,Ayer me encontré con el amigo de la jefa que fue MASKTOKEN de nuestra empresa.,Ayer me encontré con el amigo de la jefa que fue,$ES_Adj_f
+21,Spanish,5,high,f,0,1,la amiga,del jefe,Ayer me encontré con la amiga del jefe que fue MASKTOKEN de nuestra empresa.,Ayer me encontré con la amiga del jefe que fue,$ES_Adj_f
+22,Spanish,5,ambi,m,0,1,al secretario,del gerente,El periodista entrevistó al secretario del gerente que estaba MASKTOKEN.,El periodista entrevistó al secretario del gerente que estaba,$ES_Adj_m
+22,Spanish,5,low,m,0,1,a la secretaria,del gerente,El periodista entrevistó a la secretaria del gerente que estaba MASKTOKEN.,El periodista entrevistó a la secretaria del gerente que estaba,$ES_Adj_m
+22,Spanish,5,high,m,0,1,al secretario,de la gerente,El periodista entrevistó al secretario de la gerente que estaba MASKTOKEN.,El periodista entrevistó al secretario de la gerente que estaba,$ES_Adj_m
+22,Spanish,5,ambi,f,0,1,a la secretaria,de la gerente,El periodista entrevistó a la secretaria de la gerente que estaba MASKTOKEN.,El periodista entrevistó a la secretaria de la gerente que estaba,$ES_Adj_f
+22,Spanish,5,low,f,0,1,al secretario,de la gerente,El periodista entrevistó al secretario de la gerente que estaba MASKTOKEN.,El periodista entrevistó al secretario de la gerente que estaba,$ES_Adj_f
+22,Spanish,5,high,f,0,1,a la secretaria,del gerente,El periodista entrevistó a la secretaria del gerente que estaba MASKTOKEN.,El periodista entrevistó a la secretaria del gerente que estaba,$ES_Adj_f
+23,Spanish,5,ambi,m,0,0,el hermano,del chico,Pedro se divertía con el hermano del chico que estaba MASKTOKEN.,Pedro se divertía con el hermano del chico que estaba,$ES_Adj_m
+23,Spanish,5,low,m,0,0,a la hermana,del chico,Pedro se divertía con a la hermana del chico que estaba MASKTOKEN.,Pedro se divertía con a la hermana del chico que estaba,$ES_Adj_m
+23,Spanish,5,high,m,0,0,el hermano,de la chica,Pedro se divertía con el hermano de la chica que estaba MASKTOKEN.,Pedro se divertía con el hermano de la chica que estaba,$ES_Adj_m
+23,Spanish,5,ambi,f,0,0,a la hermana,de la chica,Pedro se divertía con a la hermana de la chica que estaba MASKTOKEN.,Pedro se divertía con a la hermana de la chica que estaba,$ES_Adj_f
+23,Spanish,5,low,f,0,0,el hermano,de la chica,Pedro se divertía con el hermano de la chica que estaba MASKTOKEN.,Pedro se divertía con el hermano de la chica que estaba,$ES_Adj_f
+23,Spanish,5,high,f,0,0,a la hermana,del chico,Pedro se divertía con a la hermana del chico que estaba MASKTOKEN.,Pedro se divertía con a la hermana del chico que estaba,$ES_Adj_f
+24,Spanish,5,ambi,m,0,1,al ayudante,del diputado,La explosión alcanzó al ayudante del diputado que fue ascendido por sus MASKTOKEN.,La explosión alcanzó al ayudante del diputado que fue ascendido por sus,$ES_Adj_m
+24,Spanish,5,low,m,0,1,a la ayudante,del diputado,La explosión alcanzó a la ayudante del diputado que fue ascendido por sus MASKTOKEN.,La explosión alcanzó a la ayudante del diputado que fue ascendido por sus,$ES_Adj_m
+24,Spanish,5,high,m,0,1,al ayudante,de la diputada,La explosión alcanzó al ayudante de la diputada que fue ascendido por sus MASKTOKEN.,La explosión alcanzó al ayudante de la diputada que fue ascendido por sus,$ES_Adj_m
+24,Spanish,5,ambi,f,0,1,a la ayudante,de la diputada,La explosión alcanzó a la ayudante de la diputada que fue ascendido por sus MASKTOKEN.,La explosión alcanzó a la ayudante de la diputada que fue ascendido por sus,$ES_Adj_f
+24,Spanish,5,low,f,0,1,al ayudante,de la diputada,La explosión alcanzó al ayudante de la diputada que fue ascendido por sus MASKTOKEN.,La explosión alcanzó al ayudante de la diputada que fue ascendido por sus,$ES_Adj_f
+24,Spanish,5,high,f,0,1,a la ayudante,del diputado,La explosión alcanzó a la ayudante del diputado que fue ascendido por sus MASKTOKEN.,La explosión alcanzó a la ayudante del diputado que fue ascendido por sus,$ES_Adj_f

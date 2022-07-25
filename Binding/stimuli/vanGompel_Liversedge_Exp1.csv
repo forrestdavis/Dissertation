@@ -1,0 +1,129 @@
+item,exp,pronoun,cond,contrast,target_changed,mask_sents,auto_sents,target
+1,1,he,m,Match,1,"When he was off work, the MASKTOKEN pestered the waitress all the time.","When he was off work, the",waiter
+1,1,she,m,Mismatch,1,"When she was off work, the MASKTOKEN pestered the waitress all the time.","When she was off work, the",waiter
+1,1,she,f,Match,0,"When she was off work, the MASKTOKEN pestered the waiter all the time.","When she was off work, the",waitress
+1,1,he,f,Mismatch,0,"When he was off work, the MASKTOKEN pestered the waiter all the time.","When he was off work, the",waitress
+2,1,he,m,Match,0,"When he arrived, the MASKTOKEN recognized the woman at once.","When he arrived, the",chairman
+2,1,she,m,Mismatch,0,"When she arrived, the MASKTOKEN recognized the woman at once.","When she arrived, the",chairman
+2,1,she,f,Match,1,"When she arrived, the MASKTOKEN recognized the chairman at once.","When she arrived, the",woman
+2,1,he,f,Mismatch,1,"When he arrived, the MASKTOKEN recognized the chairman at once.","When he arrived, the",woman
+3,1,he,m,Match,0,"When he was fed up, the MASKTOKEN visited the girl very often.","When he was fed up, the",boy
+3,1,she,m,Mismatch,0,"When she was fed up, the MASKTOKEN visited the girl very often.","When she was fed up, the",boy
+3,1,she,f,Match,0,"When she was fed up, the MASKTOKEN visited the boy very often.","When she was fed up, the",girl
+3,1,he,f,Mismatch,0,"When he was fed up, the MASKTOKEN visited the boy very often.","When he was fed up, the",girl
+4,1,he,m,Match,0,"When he was talking, the MASKTOKEN noticed the girl at the end of the street.","When he was talking, the",policeman
+4,1,she,m,Mismatch,0,"When she was talking, the MASKTOKEN noticed the girl at the end of the street.","When she was talking, the",policeman
+4,1,she,f,Match,1,"When she was talking, the MASKTOKEN noticed the policeman at the end of the street.","When she was talking, the",girl
+4,1,he,f,Mismatch,1,"When he was talking, the MASKTOKEN noticed the policeman at the end of the street.","When he was talking, the",girl
+5,1,he,m,Match,0,"When he was nearby, the MASKTOKEN saw the lady in the park.","When he was nearby, the",boy
+5,1,she,m,Mismatch,0,"When she was nearby, the MASKTOKEN saw the lady in the park.","When she was nearby, the",boy
+5,1,she,f,Match,1,"When she was nearby, the MASKTOKEN saw the boy in the park.","When she was nearby, the",lady
+5,1,he,f,Mismatch,1,"When he was nearby, the MASKTOKEN saw the boy in the park.","When he was nearby, the",lady
+6,1,he,m,Match,1,"When he was lost, the MASKTOKEN spotted the maid in the forest.","When he was lost, the",hunter
+6,1,she,m,Mismatch,1,"When she was lost, the MASKTOKEN spotted the maid in the forest.","When she was lost, the",hunter
+6,1,she,f,Match,1,"When she was lost, the MASKTOKEN spotted the hunter in the forest.","When she was lost, the",maid
+6,1,he,f,Mismatch,1,"When he was lost, the MASKTOKEN spotted the hunter in the forest.","When he was lost, the",maid
+7,1,he,m,Match,1,"When he was bad-tempered, the MASKTOKEN ignored the lady all day.","When he was bad-tempered, the",man
+7,1,she,m,Mismatch,1,"When she was bad-tempered, the MASKTOKEN ignored the lady all day.","When she was bad-tempered, the",man
+7,1,she,f,Match,1,"When she was bad-tempered, the MASKTOKEN ignored the man all day.","When she was bad-tempered, the",lady
+7,1,he,f,Mismatch,1,"When he was bad-tempered, the MASKTOKEN ignored the man all day.","When he was bad-tempered, the",lady
+8,1,he,m,Match,0,"When he was jealous, the MASKTOKEN angered the secretary more than ever.","When he was jealous, the",businessman
+8,1,she,m,Mismatch,0,"When she was jealous, the MASKTOKEN angered the secretary more than ever.","When she was jealous, the",businessman
+8,1,she,f,Match,1,"When she was jealous, the MASKTOKEN angered the businessman more than ever.","When she was jealous, the",secretary
+8,1,he,f,Mismatch,1,"When he was jealous, the MASKTOKEN angered the businessman more than ever.","When he was jealous, the",secretary
+9,1,he,m,Match,1,"When he was in residence, the MASKTOKEN annoyed the princess very much.","When he was in residence, the",lord
+9,1,she,m,Mismatch,1,"When she was in residence, the MASKTOKEN annoyed the princess very much.","When she was in residence, the",lord
+9,1,she,f,Match,0,"When she was in residence, the MASKTOKEN annoyed the lord very much.","When she was in residence, the",princess
+9,1,he,f,Mismatch,0,"When he was in residence, the MASKTOKEN annoyed the lord very much.","When he was in residence, the",princess
+10,1,he,m,Match,1,"When he was introduced, the MASKTOKEN shook the widow by the hand.","When he was introduced, the",sailor
+10,1,she,m,Mismatch,1,"When she was introduced, the MASKTOKEN shook the widow by the hand.","When she was introduced, the",sailor
+10,1,she,f,Match,1,"When she was introduced, the MASKTOKEN shook the sailor by the hand.","When she was introduced, the",widow
+10,1,he,f,Mismatch,1,"When he was introduced, the MASKTOKEN shook the sailor by the hand.","When he was introduced, the",widow
+11,1,he,m,Match,0,"When he arrived, the MASKTOKEN greeted the maid kindly.","When he arrived, the",master
+11,1,she,m,Mismatch,0,"When she arrived, the MASKTOKEN greeted the maid kindly.","When she arrived, the",master
+11,1,she,f,Match,1,"When she arrived, the MASKTOKEN greeted the master kindly.","When she arrived, the",maid
+11,1,he,f,Mismatch,1,"When he arrived, the MASKTOKEN greeted the master kindly.","When he arrived, the",maid
+12,1,he,m,Match,0,"When he felt sad, the MASKTOKEN hugged the woman gently.","When he felt sad, the",man
+12,1,she,m,Mismatch,0,"When she felt sad, the MASKTOKEN hugged the woman gently.","When she felt sad, the",man
+12,1,she,f,Match,0,"When she felt sad, the MASKTOKEN hugged the man gently.","When she felt sad, the",woman
+12,1,he,f,Mismatch,0,"When he felt sad, the MASKTOKEN hugged the man gently.","When he felt sad, the",woman
+13,1,he,m,Match,1,"When he was present, the MASKTOKEN embarrassed the actress all the time.","When he was present, the",actor
+13,1,she,m,Mismatch,1,"When she was present, the MASKTOKEN embarrassed the actress all the time.","When she was present, the",actor
+13,1,she,f,Match,0,"When she was present, the MASKTOKEN embarrassed the actor all the time.","When she was present, the",actress
+13,1,he,f,Mismatch,0,"When he was present, the MASKTOKEN embarrassed the actor all the time.","When he was present, the",actress
+14,1,he,m,Match,0,"When he was depressed, the MASKTOKEN invited the lady for a drink.","When he was depressed, the",lord
+14,1,she,m,Mismatch,0,"When she was depressed, the MASKTOKEN invited the lady for a drink.","When she was depressed, the",lord
+14,1,she,f,Match,1,"When she was depressed, the MASKTOKEN invited the lord for a drink.","When she was depressed, the",lady
+14,1,he,f,Mismatch,1,"When he was depressed, the MASKTOKEN invited the lord for a drink.","When he was depressed, the",lady
+15,1,he,m,Match,0,"When he was around, the MASKTOKEN helped the maid all the time.","When he was around, the",salesman
+15,1,she,m,Mismatch,0,"When she was around, the MASKTOKEN helped the maid all the time.","When she was around, the",salesman
+15,1,she,f,Match,1,"When she was around, the MASKTOKEN helped the salesman all the time.","When she was around, the",maid
+15,1,he,f,Mismatch,1,"When he was around, the MASKTOKEN helped the salesman all the time.","When he was around, the",maid
+16,1,he,m,Match,0,"When he was near, the MASKTOKEN approached the waitress on the plane.","When he was near, the",congressman
+16,1,she,m,Mismatch,0,"When she was near, the MASKTOKEN approached the waitress on the plane.","When she was near, the",congressman
+16,1,she,f,Match,1,"When she was near, the MASKTOKEN approached the congressman on the plane.","When she was near, the",waitress
+16,1,he,f,Mismatch,1,"When he was near, the MASKTOKEN approached the congressman on the plane.","When he was near, the",waitress
+17,1,he,m,Match,0,"When he was in court, the MASKTOKEN trusted the lady most of all.","When he was in court, the",knight
+17,1,she,m,Mismatch,0,"When she was in court, the MASKTOKEN trusted the lady most of all.","When she was in court, the",knight
+17,1,she,f,Match,1,"When she was in court, the MASKTOKEN trusted the knight most of all.","When she was in court, the",lady
+17,1,he,f,Mismatch,1,"When he was in court, the MASKTOKEN trusted the knight most of all.","When he was in court, the",lady
+18,1,he,m,Match,1,"When he was poorly, the MASKTOKEN depressed the actress very often.","When he was poorly, the",man
+18,1,she,m,Mismatch,1,"When she was poorly, the MASKTOKEN depressed the actress very often.","When she was poorly, the",man
+18,1,she,f,Match,0,"When she was poorly, the MASKTOKEN depressed the man very often.","When she was poorly, the",actress
+18,1,he,f,Mismatch,0,"When he was poorly, the MASKTOKEN depressed the man very often.","When he was poorly, the",actress
+19,1,he,m,Match,0,"When he arrived, the MASKTOKEN upset the lady with the story.","When he arrived, the",policeman
+19,1,she,m,Mismatch,0,"When she arrived, the MASKTOKEN upset the lady with the story.","When she arrived, the",policeman
+19,1,she,f,Match,0,"When she arrived, the MASKTOKEN upset the policeman with the story.","When she arrived, the",lady
+19,1,he,f,Mismatch,0,"When he arrived, the MASKTOKEN upset the policeman with the story.","When he arrived, the",lady
+20,1,he,m,Match,0,"When he was appointed, the MASKTOKEN bribed the secretary shortly afterwards.","When he was appointed, the",chairman
+20,1,she,m,Mismatch,0,"When she was appointed, the MASKTOKEN bribed the secretary shortly afterwards.","When she was appointed, the",chairman
+20,1,she,f,Match,1,"When she was appointed, the MASKTOKEN bribed the chairman shortly afterwards.","When she was appointed, the",secretary
+20,1,he,f,Mismatch,1,"When he was appointed, the MASKTOKEN bribed the chairman shortly afterwards.","When he was appointed, the",secretary
+21,1,he,m,Match,1,"When he was fired, the MASKTOKEN blamed the woman for the mess.","When he was fired, the",man
+21,1,she,m,Mismatch,1,"When she was fired, the MASKTOKEN blamed the woman for the mess.","When she was fired, the",man
+21,1,she,f,Match,1,"When she was fired, the MASKTOKEN blamed the man for the mess.","When she was fired, the",woman
+21,1,he,f,Mismatch,1,"When he was fired, the MASKTOKEN blamed the man for the mess.","When he was fired, the",woman
+22,1,he,m,Match,1,"When he was close, the MASKTOKEN recognized the girl on the path.","When he was close, the",boy
+22,1,she,m,Mismatch,1,"When she was close, the MASKTOKEN recognized the girl on the path.","When she was close, the",boy
+22,1,she,f,Match,1,"When she was close, the MASKTOKEN recognized the boy on the path.","When she was close, the",girl
+22,1,he,f,Mismatch,1,"When he was close, the MASKTOKEN recognized the boy on the path.","When he was close, the",girl
+23,1,he,m,Match,0,"When he was retired, the MASKTOKEN visited the lady almost every day.","When he was retired, the",lord
+23,1,she,m,Mismatch,0,"When she was retired, the MASKTOKEN visited the lady almost every day.","When she was retired, the",lord
+23,1,she,f,Match,0,"When she was retired, the MASKTOKEN visited the lord almost every day.","When she was retired, the",lady
+23,1,he,f,Mismatch,0,"When he was retired, the MASKTOKEN visited the lord almost every day.","When he was retired, the",lady
+24,1,he,m,Match,1,"When he was abroad, the MASKTOKEN forgave the lady for all the troubles.","When he was abroad, the",lord
+24,1,she,m,Mismatch,1,"When she was abroad, the MASKTOKEN forgave the lady for all the troubles.","When she was abroad, the",lord
+24,1,she,f,Match,1,"When she was abroad, the MASKTOKEN forgave the duke for all the troubles.","When she was abroad, the",lady
+24,1,he,f,Mismatch,1,"When he was abroad, the MASKTOKEN forgave the duke for all the troubles.","When he was abroad, the",lady
+25,1,he,m,Match,0,"When he was discovered, the MASKTOKEN blamed the mistress straight away.","When he was discovered, the",husband
+25,1,she,m,Mismatch,0,"When she was discovered, the MASKTOKEN blamed the mistress straight away.","When she was discovered, the",husband
+25,1,she,f,Match,0,"When she was discovered, the MASKTOKEN blamed the husband straight away.","When she was discovered, the",mistress
+25,1,he,f,Mismatch,0,"When he was discovered, the MASKTOKEN blamed the husband straight away.","When he was discovered, the",mistress
+26,1,he,m,Match,1,"When he was busy, the MASKTOKEN avoided the lady as much as possible.","When he was busy, the",man
+26,1,she,m,Mismatch,1,"When she was busy, the MASKTOKEN avoided the lady as much as possible.","When she was busy, the",man
+26,1,she,f,Match,1,"When she was busy, the MASKTOKEN avoided the man as much as possible.","When she was busy, the",lady
+26,1,he,f,Mismatch,1,"When he was busy, the MASKTOKEN avoided the man as much as possible.","When he was busy, the",lady
+27,1,he,m,Match,0,"When he was twenty-one, the MASKTOKEN married the bride in the cathedral.","When he was twenty-one, the",prince
+27,1,she,m,Mismatch,0,"When she was twenty-one, the MASKTOKEN married the bride in the cathedral.","When she was twenty-one, the",prince
+27,1,she,f,Match,0,"When she was twenty-one, the MASKTOKEN married the prince in the cathedral.","When she was twenty-one, the",bride
+27,1,he,f,Mismatch,0,"When he was twenty-one, the MASKTOKEN married the prince in the cathedral.","When he was twenty-one, the",bride
+28,1,he,m,Match,0,"When he was annoyed, the MASKTOKEN disliked the maid very much.","When he was annoyed, the",general
+28,1,she,m,Mismatch,0,"When she was annoyed, the MASKTOKEN disliked the maid very much.","When she was annoyed, the",general
+28,1,she,f,Match,1,"When she was annoyed, the MASKTOKEN disliked the general very much.","When she was annoyed, the",maid
+28,1,he,f,Mismatch,1,"When he was annoyed, the MASKTOKEN disliked the general very much.","When he was annoyed, the",maid
+29,1,he,m,Match,1,"When he was in church, the MASKTOKEN congratulated the sister about the charity work.","When he was in church, the",priest
+29,1,she,m,Mismatch,1,"When she was in church, the MASKTOKEN congratulated the sister about the charity work.","When she was in church, the",priest
+29,1,she,f,Match,0,"When she was in church, the MASKTOKEN congratulated the priest about the charity work.","When she was in church, the",sister
+29,1,he,f,Mismatch,0,"When he was in church, the MASKTOKEN congratulated the priest about the charity work.","When he was in church, the",sister
+30,1,he,m,Match,0,"When he was banished, the MASKTOKEN missed the witch a great deal.","When he was banished, the",wizard
+30,1,she,m,Mismatch,0,"When she was banished, the MASKTOKEN missed the witch a great deal.","When she was banished, the",wizard
+30,1,she,f,Match,0,"When she was banished, the MASKTOKEN missed the wizard a great deal.","When she was banished, the",witch
+30,1,he,f,Mismatch,0,"When he was banished, the MASKTOKEN missed the wizard a great deal.","When he was banished, the",witch
+31,1,he,m,Match,0,"When he was angry, the MASKTOKEN ignored the lady all the time.","When he was angry, the",man
+31,1,she,m,Mismatch,0,"When she was angry, the MASKTOKEN ignored the lady all the time.","When she was angry, the",man
+31,1,she,f,Match,1,"When she was angry, the MASKTOKEN ignored the man all the time.","When she was angry, the",lady
+31,1,he,f,Mismatch,1,"When he was angry, the MASKTOKEN ignored the man all the time.","When he was angry, the",lady
+32,1,he,m,Match,0,"When he was distraught, the MASKTOKEN visited the nun straight away.","When he was distraught, the",bishop
+32,1,she,m,Mismatch,0,"When she was distraught, the MASKTOKEN visited the nun straight away.","When she was distraught, the",bishop
+32,1,she,f,Match,0,"When she was distraught, the MASKTOKEN visited the bishop straight away.","When she was distraught, the",nun
+32,1,he,f,Mismatch,0,"When he was distraught, the MASKTOKEN visited the bishop straight away.","When he was distraught, the",nun

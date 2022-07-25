@@ -1,0 +1,19 @@
+verbose: True
+
+run: results
+
+exp: 
+      - FCM
+      - Gilboy
+      - Carreiras_Clifton
+
+lang: es
+
+model_type: auto
+
+models: 
+        gpt2:
+            - DeepESP/gpt2-spanish
+            - mrm8488/spanish-gpt2
+
+include_punct: False

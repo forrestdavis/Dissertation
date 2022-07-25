@@ -1,0 +1,22 @@
+verbose: True
+
+run: results
+
+exp: 
+    - Chow_1
+    - Nicol
+    - vanGompel_1
+    - Kush_Dillon_1
+    - Kush_Dillon_2
+
+lang: en
+
+model_type: bert
+
+models: 
+        bert:
+            - bert-base-uncased
+        roberta:
+            - roberta-base
+
+include_punct: False

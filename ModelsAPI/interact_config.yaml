@@ -1,0 +1,5 @@
+models: 
+      bert: 
+        - /data/prodrop_models/ProCHINESE
+
+include_punct: False

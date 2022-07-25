@@ -1,0 +1,20 @@
+verbose: True
+
+run: results
+
+exp: 
+     - FCM
+     - Gilboy
+     - Rohde
+
+lang: en
+
+model_type: bert
+
+models: 
+        bert:
+            - bert-base-uncased
+        roberta:
+            - roberta-base
+
+include_punct: False

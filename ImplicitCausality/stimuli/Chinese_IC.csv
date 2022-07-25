@@ -1,0 +1,3 @@
+exp,verb,item,mask_sents,bias,isHigh ,gender,target
+ic_mismatch,羡慕,0,男人羡慕女人因为MASKTOKEN在那里。,2,1,m,他
+ic_mismatch,羡慕,0,男人羡慕女人因为MASKTOKEN在那里。,2,1,m,她

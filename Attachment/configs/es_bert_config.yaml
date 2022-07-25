@@ -1,0 +1,20 @@
+verbose: True
+
+run: results
+
+exp: 
+      - FCM
+      - Gilboy
+      - Carreiras_Clifton
+
+lang: es
+
+model_type: bert
+
+models: 
+        bert:
+            - dccuchile/bert-base-spanish-wwm-uncased
+        roberta:
+            - mrm8488/RuPERTa-base
+
+include_punct: False

@@ -1,0 +1,70 @@
+verbose: True
+
+run: results
+
+exp: 
+     - FCM
+     - Gilboy
+     - Rohde
+
+lang: en
+
+model_type: lstm
+
+models: 
+        
+        lstm:
+          model_files:
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_1-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_2-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_3-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_4-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_5-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_6-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_7-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_8-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_9-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_10-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_11-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_12-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_13-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_14-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_15-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_16-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_17-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_18-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_19-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_20-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_21-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_22-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_23-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_24-d0.2.pt
+              - /data/new-wikitext103-25-models/wikitext-103_LSTM_400_25-d0.2.pt
+          vocab_files:
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+              - /data/new-wikitext103-25-models/wikitext103_vocab
+
+include_punct: False
